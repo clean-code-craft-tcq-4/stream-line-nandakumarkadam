@@ -7,7 +7,7 @@ import java.util.List;
 public class SensorDataService  {
 
 	private List<Double> generateSequence(final double startValue, final double endValue, final double interval) {
-		List<Double> sequenceList = new ArrayList<>();
+		List<Double> sequenceList = new ArrayList<Double>();
 		for (double i = startValue; i <= endValue; i = i + interval) {
 			sequenceList.add(i);
 		}
