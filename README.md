@@ -38,6 +38,8 @@ We will instruct you to handover your Sender to another participant and take-ove
 
 - Develop the Receiver for the Sender you take-over.
 
+
+
 ## The Interface
 
 We document the interface between the Sender and the Receiver as test cases.
